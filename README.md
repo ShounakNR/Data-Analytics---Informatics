@@ -1,4 +1,4 @@
-# Data-Analytics---Informatics
+# Data-Analytics-And-Informatics
 -------------------------------
 ## Project - Predicting NFL plays
 **Data Source**: Kaggle NFL play-by-play dataset (credits Max Horowitz)\
